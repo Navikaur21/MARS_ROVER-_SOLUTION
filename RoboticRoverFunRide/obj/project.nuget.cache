@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "A7PsuqeAzhj1/XacroP3k+myD5iv+ad9jURQb1g5NlJ/5v/481Nzn7WAAywLhu4XrAQcJ+7mJ7JCzgS3YSAJjg==",
+  "success": true,
+  "projectFilePath": "/Users/Navpreetkaur/Documents/RoboticRoverFunRide/RoboticRoverFunRide/RoboticRoverFunRide.csproj",
+  "expectedPackageFiles": [
+    "/Users/Navpreetkaur/.nuget/packages/microsoft.aspnetcore.nodeservices/3.1.11/microsoft.aspnetcore.nodeservices.3.1.11.nupkg.sha512",
+    "/Users/Navpreetkaur/.nuget/packages/microsoft.extensions.configuration/3.1.11/microsoft.extensions.configuration.3.1.11.nupkg.sha512",
+    "/Users/Navpreetkaur/.nuget/packages/microsoft.extensions.configuration.abstractions/3.1.11/microsoft.extensions.configuration.abstractions.3.1.11.nupkg.sha512",
+    "/Users/Navpreetkaur/.nuget/packages/microsoft.extensions.configuration.binder/3.1.11/microsoft.extensions.configuration.binder.3.1.11.nupkg.sha512",
+    "/Users/Navpreetkaur/.nuget/packages/microsoft.extensions.dependencyinjection/3.1.11/microsoft.extensions.dependencyinjection.3.1.11.nupkg.sha512",
+    "/Users/Navpreetkaur/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/3.1.11/microsoft.extensions.dependencyinjection.abstractions.3.1.11.nupkg.sha512",
+    "/Users/Navpreetkaur/.nuget/packages/microsoft.extensions.logging/3.1.11/microsoft.extensions.logging.3.1.11.nupkg.sha512",
+    "/Users/Navpreetkaur/.nuget/packages/microsoft.extensions.logging.abstractions/3.1.11/microsoft.extensions.logging.abstractions.3.1.11.nupkg.sha512",
+    "/Users/Navpreetkaur/.nuget/packages/microsoft.extensions.logging.configuration/3.1.11/microsoft.extensions.logging.configuration.3.1.11.nupkg.sha512",
+    "/Users/Navpreetkaur/.nuget/packages/microsoft.extensions.logging.console/3.1.11/microsoft.extensions.logging.console.3.1.11.nupkg.sha512",
+    "/Users/Navpreetkaur/.nuget/packages/microsoft.extensions.options/3.1.11/microsoft.extensions.options.3.1.11.nupkg.sha512",
+    "/Users/Navpreetkaur/.nuget/packages/microsoft.extensions.options.configurationextensions/3.1.11/microsoft.extensions.options.configurationextensions.3.1.11.nupkg.sha512",
+    "/Users/Navpreetkaur/.nuget/packages/microsoft.extensions.primitives/3.1.11/microsoft.extensions.primitives.3.1.11.nupkg.sha512",
+    "/Users/Navpreetkaur/.nuget/packages/newtonsoft.json/12.0.2/newtonsoft.json.12.0.2.nupkg.sha512",
+    "/Users/Navpreetkaur/.nuget/packages/node.js/5.3.0/node.js.5.3.0.nupkg.sha512",
+    "/Users/Navpreetkaur/.nuget/packages/nogit/0.1.0/nogit.0.1.0.nupkg.sha512",
+    "/Users/Navpreetkaur/.nuget/packages/npm/3.5.2/npm.3.5.2.nupkg.sha512"
+  ],
+  "logs": []
+}

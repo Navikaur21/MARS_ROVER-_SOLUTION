@@ -1,0 +1,39 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<table>
+        <tr>
+            <td colspan="2"><b>Click on the "Upload" button to upload a CSV :</b></td></tr>
+        <tr>
+            <td colspan="2">
+                <label for="file-upload" class="custom-file-upload">Upload</label>
+                <input id="file-upload" type="file" onchange="handleFiles(this.files)" accept=".csv"/>
+             </td>
+        </tr>
+        <tr>
+            <td>
+                <Label>Input Cordinates </Label>
+            </td>
+            <td>
+                <Label>Output Cordinates </Label>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <Label id="initialLabel"> </Label>
+
+            </td>
+            <td>
+                <Label id="resultLabel"> </Label>
+            </td>
+        </tr>
+</table>
+
+
+
+
+
+
