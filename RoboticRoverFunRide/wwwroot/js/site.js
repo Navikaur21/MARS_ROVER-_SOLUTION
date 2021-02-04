@@ -1,7 +1,7 @@
-﻿// Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
-// for details on configuring this project to bundle and minify static web assets.
-
-// Write your JavaScript code.
+//Please note I had to put three classes (Rover, Plateau, Controller) in the same class as Import and export function was not working.
+//As asked I have written in Javascript. Due to Import/Export feature not working couldnot develop Unit Test. 
+//Also I did this developemnt in MAC Visual Studio which was not suitable environment, lack features and was slow.
+//please feel free to ask any questions 
 
 const ORIENTATIONS = ['W', 'N', 'E', 'S'];
 
